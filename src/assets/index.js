@@ -31,7 +31,7 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import cartselector from "./csrtselector.png"
-import  wordandspeed from "./WordandSpeedGame.png"
+import  wordandspeed from "./WordAndSpeedGame.png"
 import barber from "./Barber.png"
 import modelagency from "./ModelAgency.png"
 
